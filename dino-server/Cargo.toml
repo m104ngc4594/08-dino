@@ -19,6 +19,7 @@ serde_json = { workspace = true }
 serde_yaml = "0.9.34"
 thiserror = "2.0.3"
 tokio = { workspace = true }
+tower = "0.5.1"
 tracing = { workspace = true }
 typed-builder = "0.20.0"
 
